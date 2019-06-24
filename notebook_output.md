@@ -194,7 +194,7 @@ plt.show()
 ```
 
 
-![png](notebook_files/notebook_3_0.png)
+![png](notebook_output_files/notebook_output_3_0.png)
 
 
 ## Plot with matplotlib.pyplot
@@ -261,5 +261,5 @@ plt.show()
 ```
 
 
-![png](notebook_files/notebook_5_0.png)
+![png](notebook_output_files/notebook_output_5_0.png)
 
